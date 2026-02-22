@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flutter Conference Talks</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-dim: #1f6feb33;
+      --header-bg: #1c2128;
+      --row-hover: #1c2128;
+    }
+
+    [data-theme="light"] {
+      --bg: #ffffff;
+      --surface: #f6f8fa;
+      --border: #d0d7de;
+      --text: #24292f;
+      --text-muted: #57606a;
+      --accent: #0969da;
+      --accent-dim: #0969da1a;
+      --header-bg: #f6f8fa;
+      --row-hover: #f1f4f8;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    header h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    header h1 span {
+      color: var(--accent);
+    }
+
+    nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.85rem;
+      padding: 4px 12px;
+      border-radius: 20px;
+      background: var(--accent-dim);
+      transition: background 0.2s;
+      cursor: pointer;
+    }
+
+    nav a:hover {
+      background: var(--accent-dim);
+      filter: brightness(1.3);
+    }
+
+    .filter-bar {
+      padding: 12px 24px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .filter-bar input {
+      width: 100%;
+      max-width: 480px;
+      padding: 8px 14px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+    }
+
+    .filter-bar input:focus {
+      border-color: var(--accent);
+    }
+
+    main {
+      padding: 24px;
+    }
+
+    .table-section {
+      margin-bottom: 48px;
+    }
+
+    .table-section h2 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      text-transform: capitalize;
+      margin-bottom: 4px;
+    }
+
+    .meta {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      margin-bottom: 12px;
+    }
+
+    .meta a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+      min-width: 1200px;
+    }
+
+    thead {
+      position: sticky;
+      top: 0;
+    }
+
+    th {
+      background: var(--header-bg);
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+      max-width: 300px;
+    }
+
+    td a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    td a:hover {
+      text-decoration: underline;
+    }
+
+    td.abstract {
+      max-width: 300px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    td.full-abstract {
+      min-width: 500px;
+      max-width: 800px;
+    }
+
+    tr:hover td {
+      background: var(--row-hover);
+    }
+
+    tr.hidden {
+      display: none;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 48px;
+      color: var(--text-muted);
+      font-size: 1.1rem;
+    }
+
+    .theme-toggle {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      font-size: 1.2rem;
+      cursor: pointer;
+      margin-left: auto;
+      padding: 6px 12px;
+      border-radius: 6px;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .theme-toggle:hover {
+      background: var(--accent-dim);
+      border-color: var(--accent);
+    }
+
+    @media (max-width: 768px) {
+      header {
+        padding: 12px 16px;
+      }
+
+      main {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    document.documentElement.setAttribute('data-theme', storedTheme);
+  </script>
+  <header>
+    <h1>📋 Flutter Conference <span>Talks</span></h1>
+    <nav id="nav"></nav>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
+      <span class="icon">☀️</span>
+    </button>
+  </header>
+  <div class="filter-bar">
+    <input type="text" id="search" placeholder="Filter talks by title, speaker, tag…" autocomplete="off">
+  </div>
+  <main id="main">
+    <div class="loading">Loading conference data…</div>
+  </main>
+
+  <script>
+    const COLUMNS = [
+      'conference_name', 'talk_author', 'talk_title',
+      'full_abstract', 'date', 'duration',
+      'type', 'tags', 'room', 'source'
+    ];
+
+    const HEADERS = [
+      'Conference name', 'Talk author', 'Talk title',
+      'Full abstract', 'Date', 'Duration',
+      'Type', 'Tags', 'Room', 'Source'
+    ];
+
+    function escapeHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function toId(name) {
+      return name.replace(/[^a-zA-Z0-9]/g, '_');
+    }
+
+    function toLabel(talks, name) {
+      return talks[0]?.conference_name || name.replace(/_/g, ' ');
+    }
+
+    function buildTable(talks, name) {
+      const id = toId(name);
+      const label = toLabel(talks, name);
+
+      let html = `<section class="table-section" id="${id}">`;
+      html += `<h2>${escapeHtml(label)}</h2>`;
+      html += `<p class="meta">${talks.length} talks · <a href="#${id}">#</a></p>`;
+      html += `<div class="table-wrap"><table>`;
+      html += `<thead><tr>${HEADERS.map(h => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>`;
+      html += `<tbody>`;
+
+      for (const talk of talks) {
+        html += '<tr>';
+        for (const col of COLUMNS) {
+          const cls = col === 'full_abstract' ? ' class="abstract full-abstract"' : '';
+
+          if (col === 'source' && talk[col]) {
+            html += `<td${cls}><a href="${escapeHtml(talk[col])}" target="_blank">Link</a></td>`;
+          } else {
+            html += `<td${cls}>${escapeHtml(talk[col])}</td>`;
+          }
+        }
+        html += '</tr>';
+      }
+
+      html += `</tbody></table></div></section>`;
+      return html;
+    }
+
+    async function init() {
+      const nav = document.getElementById('nav');
+      const main = document.getElementById('main');
+
+      try {
+        const manifestRes = await fetch('data/index.json');
+        const conferences = await manifestRes.json();
+
+        let minYear = Infinity;
+        let maxYear = -Infinity;
+        let tablesHtml = '';
+
+        const conferencesData = await Promise.all(
+          conferences.map(async (name) => {
+            const res = await fetch(`data/${name}.json`);
+            const talks = await res.json();
+
+            let maxDate = '';
+            for (const talk of talks) {
+              if (talk.date && talk.date > maxDate) {
+                maxDate = talk.date;
+              }
+            }
+            return { name, talks, maxDate };
+          })
+        );
+
+        conferencesData.sort((a, b) => b.maxDate.localeCompare(a.maxDate));
+
+        let navHtml = '';
+        for (const { name, talks } of conferencesData) {
+          const yearMatch = name.match(/^(\d{4})/);
+          if (yearMatch) {
+            const y = parseInt(yearMatch[1], 10);
+            minYear = Math.min(minYear, y);
+            maxYear = Math.max(maxYear, y);
+          }
+
+          tablesHtml += buildTable(talks, name);
+          navHtml += `<a href="#${toId(name)}">${escapeHtml(toLabel(talks, name))}</a>`;
+        }
+        nav.innerHTML = navHtml;
+
+        main.innerHTML = tablesHtml;
+
+        if (minYear !== Infinity) {
+          const yearStr = minYear === maxYear ? minYear : `${minYear}-${maxYear}`;
+          document.title = `Flutter Conference Talks ${yearStr}`;
+          document.querySelector('header h1').innerHTML = `📋 Flutter Conference Talks <span>${yearStr}</span>`;
+        }
+      } catch (err) {
+        main.innerHTML = `<div class="loading">Failed to load data: ${escapeHtml(err.message)}</div>`;
+      }
+
+      document.getElementById('search').addEventListener('input', function () {
+        const q = this.value.toLowerCase();
+        document.querySelectorAll('tbody tr').forEach(tr => {
+          tr.classList.toggle('hidden', q && !tr.textContent.toLowerCase().includes(q));
+        });
+        document.querySelectorAll('.table-section').forEach(sec => {
+          const visible = sec.querySelectorAll('tbody tr:not(.hidden)').length;
+          const total = sec.querySelectorAll('tbody tr').length;
+          sec.querySelector('.meta').textContent = visible + ' of ' + total + ' talks shown';
+          sec.style.display = visible === 0 ? 'none' : '';
+        });
+      });
+    }
+
+    init();
+
+    const themeToggle = document.getElementById('theme-toggle');
+    const updateThemeIcon = () => {
+      const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+      themeToggle.querySelector('.icon').textContent = isLight ? '🌙' : '☀️';
+    };
+
+    updateThemeIcon();
+
+    themeToggle.addEventListener('click', () => {
+      const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+      const newTheme = isLight ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      updateThemeIcon();
+    });
+  </script>
+</body>
+
+</html>

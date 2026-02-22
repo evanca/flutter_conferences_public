@@ -1,0 +1,122 @@
+[
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Sasha Denisov",
+    "talk_title": "Building Next-Level Flutter Apps with AI using Firebase Genkit",
+    "full_abstract": "Discover how Firebase GenKit can revolutionize the way Flutter developers create applications by seamlessly integrating cutting-edge generative AI capabilities. From intelligent chatbots and personalized recommendations to dynamic content generation and workflow automation, GenKit enables you to harness the power of leading AI models such as Claude, ChatGPT, Gemini, Gemma, and more—all tailored to your app's unique needs.\r\n\r\nGenKit provides unparalleled flexibility, allowing developers to utilize multiple AI models simultaneously. You can chain models together, using the output of one as the prompt for another, or dynamically switch between models based on your app's requirements. This capability opens up endless possibilities for crafting sophisticated, context-aware features.\r\n\r\nThis talk will focus on how Flutter developers can work with GenKit locally, testing and debugging AI-driven functionality with ease, and how these features can be seamlessly deployed using Firebase Cloud Functions or Cloud Run, ensuring scalability and reliability in production.\r\n\r\nJoin the talk to explore practical use cases, step-by-step setup and deployment techniques, and actionable insights into leveraging multiple AI models with GenKit to create smarter, more engaging Flutter applications. Let's build the future of app development, together!",
+    "date": "2025-03-12 09:30",
+    "duration": "50 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Vadym Pinchuk",
+    "talk_title": "Own your app code: throw dependencies out of the ring",
+    "full_abstract": "Flutter development is fun! With an abundance of packages available for navigation, networking, camera features, and image handling, building an app has never been easier. But when it comes to testing individual parts of your app, things can get tricky. Mocks and stubs might seem like a quick fix, but they often lead to fragile, hard-to-maintain tests that break easily.\r\n\r\nIn this talk, we’ll explore how to take control of your Flutter project by pushing external dependencies out of your core code. Just like in wrestling, we’ll \"throw\" these dependencies out of the ring, giving you full control over your app’s architecture. The result? A more maintainable, scalable, and testable codebase.\r\n\r\nKey Takeaways:\r\n- How to select and manage dependencies effectively\r\n- How to rely on abstractions to improve code organization\r\n- When and how to reduce dependencies and replace them with custom implementations\r\n- How to improve testability by isolating app components using Fakes\r\n- How to apply Hexagonal Architecture to truly own your code",
+    "date": "2025-03-12 10:20",
+    "duration": "40 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Marco Facco",
+    "talk_title": "From Zero to Network Manager Hero",
+    "full_abstract": "In the realm of mobile application development, managing network requests efficiently is of prime importance. Whether you're fetching data from a remote server, posting user information, or handling complex API interactions, a robust network management strategy is essential for building responsive and reliable applications.\r\n\r\nIn this speech, I will walk you through my approach to implementing a generalised Http client in Flutter using the Dio package.\r\n\r\nDart provides the http package to streamline network operations. Upon it, Dio, is built offering features such as interceptors, request cancellation, and robust error handling.However, to harness the full potential of Dio, it's crucial to adopt a structured approach to network management. This involves not just sending Http requests but also organising your code in a way that is maintainable, scalable, and testable. This is where the concept of a standardised network request structure comes into play.",
+    "date": "2025-03-12 11:30",
+    "duration": "45 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Viktor Lidholt",
+    "talk_title": "Building a multiplayer drawing game with Dart and Serverpod on the backend",
+    "full_abstract": "In this comprehensive session, we will build and deploy a complete multiplayer drawing game. We will explore the synergy of Dart and Serverpod in backend development. Beginning by setting up a Dart project with Serverpod, highlighting the benefits of working with Dart throughout the entire stack. Participants will learn to structure their codebase, write scalable and maintainable code, and leverage Serverpod for backend operations.\r\n\r\nA key focus will be on real-time communication. We'll demonstrate how to work with streams to push data from the server to a Flutter app.\r\n\r\nThe session concludes with deployment strategies, covering the transition from development to cloud environments. We'll discuss containerization with Docker and strategies for deploying to GCP and Serverpod Cloud.\r\n\r\nThis session is ideal for Flutter developers curious about working with Dart on the backend and backend developers who want to get into Dart.",
+    "date": "2025-03-12 12:15",
+    "duration": "45 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Adrien Body, Francois Nollen",
+    "talk_title": "A Journey to Continuous Delivery with Flutter ⚡️🚀🙂",
+    "full_abstract": "Continuous Delivery consists in getting changes to production, safely and quickly in a sustainable way. The State of DevOps Report and DORA state successful companies deploy more than once a day - possibly rolling back in less than an hour!\r\n \r\nProviding a Flutter mobile app with new features/fixes to release every day, assuming your CI/CD pipeline rocks… still you have to submit and comply with Stores rules, policies and rollout strategies. How can you achieve CD in practice?\r\n \r\nFrom our journey to CD with a business-critical Flutter app, millions of Android/iOS users and dozens of changes every day, come and learn what we've learned so far, the limits we've met and our results leveraging various tools and techniques - including Feature Flags, Beta releases, Shorebird, LaunchDarkly and more.\r\n \r\nInnovate faster, deploy safer.",
+    "date": "2025-03-12 14:00",
+    "duration": "45 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Albert Wolszon",
+    "talk_title": "RenderObject layer advantages without writing any RenderObjects",
+    "full_abstract": "Every more advanced Flutter developer has heard of RenderBoxes, their layer, and their advantages over containing themselves just in the Widgets world. But in reality, a small number of developers have ever written one, they’re usually intimidated by the amount of boilerplate to write, and the methods to override, most with some scary-looking name. In this talk, I’ll introduce the audience to the boxy package and its CustomBoxy and BoxyDelegate classes that make taking advantage of the render object layer a very low-hanging fruit that is easy to understand, with almost no boilerplate and some advanced features if you feel like it. I’ll start by quickly reminding you how rendering widgets in Flutter works, when we need to step up the game from just the widgets layer, and what Flutter framework gives us (5 approaches of the varying magnitude of complexity) for render object layer development. Then I’ll dive in the BoxyDelegate world solving a few real-life production UI problems and I’ll talk about the pros and cons of BoxyDelegate and how I use it on a daily basis. Spoiler alert: BoxyDelegate is a wrapper on RenderObject API making it 3x more convenient to use.",
+    "date": "2025-03-12 14:45",
+    "duration": "40 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Sasha Denisov",
+    "talk_title": "Building Flutter Apps with GenAI capabilities without Connection, Money and Privacy Concerns",
+    "full_abstract": "In this talk, we'll dive into the exciting world of Gemma, a groundbreaking family of open AI models by Google. We'll explore how you can leverage Gemma's capabilities to build innovative Mobile and Web projects using Flutter. One of these capabilities is running on your mobile device or browser locally, without an internet connection, without cloud bills and without privacy concerns\r\n\r\nKey takeaway:\r\n\r\n- Understand the core functionalities and architectures of Gemma, lightweight, state-of-the-art models\r\n- Discover the advantages of using Gemma, including its open-source nature, versatility across tasks, and on-device/browser capabilities\r\n- Discover practical methods for integrating Gemma into your Flutter Mobile and Web applications, unlocking new possibilities for user interaction and functionality\r\n- Explore different approaches to fine-tuning of Gemma model, that let you achieve better results on a wide number of tasks. Once a model has been fine-tuned, you won't need to provide as many examples in the prompt.\r\n- Explore the different types of Gemma (CodeGemma, PaliGemma, etc.), the purposes for which they can be used, how Gemma differs from Gemini, and explore the distinct characteristics of each model, including size, performance, and optimal use cases\r\n- Discover Gemma alternatives that you can use on-device and in the browser\r\n- As a bonus, we'll take a look at Llama, exploring its features and how it compares to Gemma.\r\n\r\nPS: Additionally I'll introduce the Flutter plugin that I created and currently maintain for the integration of Gemma into Flutter apps",
+    "date": "2025-03-12 15:25",
+    "duration": "20 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Tymoteusz Buczkowski",
+    "talk_title": "How to save A LOT of development money with one simple trick - A Flutter Web case study",
+    "full_abstract": "In this talk I'll be sharing my experiences from a Flutter Web project, that's been in development for over 2 years and recently went into production. The incredible story of this project is, that during those 2 years, the project was considered as web-only, but last minute, the business changed their mind and decided to make a mobile version of it too. Any sane software dev would say in that situation that it's going to cost a lot of money, but thanks to Flutter's cross-platform capabilities and some good architectural decisions, we had a fully functional mobile build up-and-running within one working day of the decision.\r\n\r\nApart from the story, I'll share some of the tips and pitfalls you might encounter while porting a Flutter app to a new platform:\r\n- the technical requirements to even launch a Flutter app on new platform,\r\n- the functional and business decisions that might be necessary,\r\n- the UI/UX implications,\r\n- how to handle tricky cases where some dependencies might not be available for the new platform,\r\n- and more!",
+    "date": "2025-03-12 16:15",
+    "duration": "45 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Albert Wolszon",
+    "talk_title": "Internationalization (and not only)",
+    "full_abstract": "How should you prepare your Flutter app for introducing it on a global market? Is there something other than the content language and date format? Let's find out what to expect with internationalizing apps and how to do that in Flutter, along with some statistics and fun facts.",
+    "date": "2025-03-12 17:00",
+    "duration": "20 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  },
+  {
+    "source": "https://flutterheroes.com/2025/agenda/",
+    "conference_name": "Flutter Heroes 2025",
+    "talk_author": "Vadym Pinchuk, Viktor Lidholt, Marco Facco, Sasha Denisov",
+    "talk_title": "Roundtable",
+    "full_abstract": "1. What exciting developments and features can we expect in Flutter over the next year?\r\n\r\n2. Reflecting on Flutter’s journey, what have been the most game-changing moments and milestones?\r\n\r\n3. Have there been any ambitious ideas or experimental features that didn’t make it to production? What lessons were learned from them?\r\n\r\n4. In what scenarios might companies or developers consider technologies other than Flutter, and how do you see Flutter adapting or responding to such scenarios?\r\n\r\n5. Could you describe any scenarios or use cases where Flutter might not be the optimal choice, and what would you suggest developers consider in those cases?\r\n\r\n6. What advice would you give developers or teams who are just starting their journey with Flutter today?",
+    "date": "2025-03-12 17:20",
+    "duration": "40 min",
+    "type": "Talk",
+    "tags": "",
+    "room": "Main Stage"
+  }
+]
