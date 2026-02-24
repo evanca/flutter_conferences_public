@@ -1,5 +1,7 @@
 # Flutter Conferences Public Archive
 
+**Live Website:** [https://happycode.studio/flutter_conferences_public/](https://happycode.studio/flutter_conferences_public/)
+
 This repository serves as a public archive for various Flutter conferences from 2024 onwards. Our goal is to centralize conference schedule and talk data to make it easily accessible for community purposes such as organizing playlists, finding speakers, and historical reference.
 
 This includes the generated visualization site and the raw JSON data files.

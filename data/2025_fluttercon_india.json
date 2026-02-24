@@ -1,7 +1,6 @@
 [
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Karan Misra",
     "talk_title": "Multi Window in Flutter Desktop",
     "full_abstract": "From last 2-3 years I am seeing Flutter desktop apps are stuck with single-window limitations while users expect the rich multi-window experiences they get from native desktop applications. That's finally changing with Flutter's new multi-window support, and it's simple to implement. This talk walks through transforming your existing Flutter desktop app into a multi-window powerhouse, often with just a configuration flag flip.\nI'll share real experiences from implementing multi-window functionality, including the gotchas nobody warns you about and the surprisingly elegant solutions Flutter provides. We'll explore practical scenarios like creating detachable tool panels, floating inspectors, and secondary displays while keeping everything responsive and bug-free. The session includes live coding demonstrations showing how window creation, state sharing, and lifecycle management actually work in practice, not just theory.\n\n1. Discover how enabling multi-window support can be as simple as changing a flag, plus the additional setup needed for production-ready implementations.\n2. Handle the complex dance of window creation, focus management, and cleanup without memory leaks or crashes.\n3. Transform existing single-window apps with minimal refactoring using proven architectural patterns and incremental adoption approaches.\n4. Understand the real-world performance implications of multiple Flutter views instances and optimization techniques that actually matter in production.",
@@ -12,8 +11,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Divyanshu Bhargava",
     "talk_title": "Generative UIs: Using LLMs to Create Flutter Screens at Runtime",
     "full_abstract": "Imagine describing a screen in plain English and seeing it come to life instantly in your Flutter app. With the power of Large Language Models (LLMs), this is now possible.\n\nIn this talk, we’ll explore how AI can go beyond code generation to actually generate complete Flutter UIs at runtime. You’ll learn how to leverage LLMs to produce JSON or similar declarative structures that Flutter can render on the fly. We’ll discuss how this approach enables AI-assisted app creation, personalization, A/B testing, and even dynamic screen generation without manual coding or redeploying your app.\n\nWe’ll also walk through real examples, challenges, and design patterns for making AI-generated UIs practical, safe, and production-ready.\n\nKey Takeaways:\n- How LLMs can describe and generate Flutter UIs dynamically\n- Architecture for building runtime UI generation\n- Integrating LLMs with SDUI frameworks like Stac or Flutter genUI\n- Real-world challenges: validation, consistency, and UX control\n- The future of generative development in Flutter",
@@ -24,8 +22,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Akansha Jain",
     "talk_title": "Offline Mode, Online Impact: Building Trustworthy Offline Flutter Apps",
     "full_abstract": "Let’s be honest — building apps that “just work” offline sounds great... until you actually try it. Suddenly, you’re juggling stale data, failed syncs, confusing UX, and that one user who went offline at exactly the wrong time.\n\nIn this talk, we’ll unpack the real-life challenges and pain points of building offline-first apps in Flutter — not just the theory, but what happens when your code meets the real world.\n\nWe’ll walk through practical tips and proven patterns: how to manage local storage, queue user actions, handle conflicts, and design a UX that keeps people confident, even without a signal. Along the way, we’ll share lessons learned, tools that help (like Hive, Isar, workmanager, and connectivity_plus), and what not to do when going offline.\n\nWhether you’re building for global users, field workers, or just want your app to feel rock-solid, you’ll leave with a clear roadmap to make your Flutter app offline-friendly — and user-trusted.",
@@ -36,8 +33,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Premnath S",
     "talk_title": "Flutter State Smackdown: Comparing BLoC, Provider, Riverpod, and When to Use Them",
     "full_abstract": "State management is one of the most critical decisions in any Flutter app. With multiple approaches available—BLoC, Provider, Riverpod, and more—it can be overwhelming to decide which one to use, when, and why.\nIn this talk, I will compare the most popular state management techniques, highlighting their strengths, weaknesses, and real-world use cases. Through live examples and practical demonstrations, you’ll see how each approach works in action and learn which pattern fits different types of Flutter apps, from small interactive apps to large enterprise-level products.\nBy the end of this session, participants will understand how to choose the right state management approach, avoid common pitfalls, and apply these patterns effectively in their projects.\n\nKey Takeaways:\n1.Understand the core principles of BLoC, Provider, and Riverpod, including their architecture, workflow, and lifecycle management.\n2.Learn the strengths and limitations of each state management solution, with real-world examples from production apps.\n3.See live demonstrations showing how to implement each pattern for common app scenarios (UI updates, API calls, and user interactions).\n4.Gain practical guidance on when to choose BLoC, Provider, or Riverpod, depending on app complexity, team size, and maintainability needs.\n5.Tips for avoiding common pitfalls, like unnecessary rebuilds, poor state separation, and performance bottlenecks.",
@@ -48,8 +44,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Aachman Garg",
     "talk_title": "Crafting OS-Level Experiences with Flutter Desktop",
     "full_abstract": "Flutter is no longer just for mobile apps, it’s becoming a viable option for building production-ready desktop applications. In this workshop, we’ll explore how to move beyond UI and craft true OS-level experiences with Flutter Desktop. You’ll see how to create custom window frames with window_manager and flutter_acrylic, add multi-window support with desktop_multi_window, keep your app running in the background using window_manager and tray_manager, and register global shortcuts with hotkey_manager. We’ll also extend Flutter with platform channels, integrate Rust via Dart FFI, and spawn external processes using Dart’s Process API. By the end, you’ll see how Flutter can give you the same level of control you expect from native desktop development, without leaving Dart behind.\n\nKey Takeaways:\n- Build multi-window applications with custom window frames.\n- Run Flutter apps in the background with system tray integration.\n- Register OS-level shortcuts.\n- Extend Flutter with platform channels and Dart FFI.\n- Spawn and manage external processes using Dart’s Process API.",
@@ -60,8 +55,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Sivaram Subramanian",
     "talk_title": "Architecture First: Foundations for Long Term Success",
     "full_abstract": "Code Refactoring incurs business cost. If we get the architecture right from the beginning we would never have to rework when scaling the features. This session will list out useful and lesser known architecture tips from my experience.",
@@ -72,8 +66,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Viktor Lidholt",
     "talk_title": "Whats new in Serverpod 3",
     "full_abstract": "Be among the first to discover Serverpod 3, the latest evolution of the open-source backend framework built for Flutter developers who love staying in Dart. Just out of the oven, this lightning talk gives you an exclusive first look at what’s new: features that make building, scaling, and deploying full-stack Flutter apps faster, more modular, and more enjoyable than ever.\n\nWhether you’re running your own infrastructure or deploying to the cloud, Serverpod 3 pushes developer experience to a new level. Join us to see how the next generation of Serverpod helps Flutter teams ship production-grade apps with confidence and zero backend friction.",
@@ -84,8 +77,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Viktor Lidholt",
     "talk_title": "Build a multiplayer drawing experience with full-stack Dart",
     "full_abstract": "Using the same computer language for both frontend and backend makes development faster and allows team members to take the role of a full-stack developer more easily. In this workshop, we will build a multi-user drawing experience with Dart, Serverpod, and Flutter and deploy it to the cloud.\n\nServerpod is an open-source backend written in Dart for the Flutter community. After attending this workshop, you will be ready to build your first real-time server with Dart and Serverpod. You will learn how to deploy your server to the cloud and how to release a Flutter web app.\n\nPlease bring your laptop with Flutter & Dart installed.",
@@ -96,8 +88,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Shourya Kelkar",
     "talk_title": "Mirror, Mirror on the Wall… Built with Flutter After All",
     "full_abstract": "Step into the future of home automation and interactive displays! In this hands‑on session, Shourya and Renuka will guide you through the end‑to‑end process of transforming an ordinary two‑way mirror into a “Magic Mirror” that greets you, displays real‑time information, and even carries on intelligent conversations. Whether you’re a hobbyist eager for your next Raspberry Pi project, a mobile developer curious about embedding Flutter UIs in novel hardware, or an AI enthusiast looking to bring intelligent agents into physical spaces, this talk delivers.\n\nWhy Attend?\n\nReal‑World Hardware + Software\nSee how to connect a Raspberry Pi to a Flutter app—even if you’ve never done it before.\n\nFlutter on a Smart Mirror\nLearn simple tricks to run your Flutter screens on the mirror’s display and keep them running smoothly.\n\nMaking MagicMirror² Work for You\nDiscover how to install and tweak the MagicMirror² software on a Pi, and solve common issues you’ll run into.\n\nBuilding Your Own AI Agents\nLearn how to create custom AI agents, orchestrate different tools, and get the exact results you want.\n\nAdding AI the Easy Way\nFind out how to send voice or text questions from your mirror to an AI service and get responses back, handling delays and errors gracefully.\n\nLive Demo + Ready‑to‑Use Code\nWatch the complete setup in action, and grab starter code you can try out right away.\n\nSpeed & Security Tips\nGet simple advice on keeping your Pi fast, your Flutter app lean, and your AI calls secure.\n\nTake away:\nWhen you join this session, you’ll walk away with hands‑on knowledge of wiring a Raspberry Pi to drive a Flutter UI on a smart mirror, the know‑how to install and customize MagicMirror², and the skills to build and orchestrate your own AI agents for voice and text interactions. You’ll see live demos, get production‑ready starter code, and learn simple tips for keeping your system fast, secure, and reliable—so you can start building your own magical mirror right away.",
@@ -108,8 +99,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Parth Joshi",
     "talk_title": "Touch, Respond, Animate: Interactive Rive Awesomeness with Flutter",
     "full_abstract": "Dive deep into the world of Rive Animations with Flutter—a powerful combination for creating stunning, interactive user interfaces. With over a year of hands-on experience integrating Rive (formerly known as Flare) into real Flutter projects, I’ll share what truly works when building engaging motion graphics and seamless transitions.\n\nThis session will go beyond the basics, focusing on practical techniques, expert tips, and lessons learned from my journey. Discover how to synchronize Rive animations with user gestures, implement complex state transitions, and elevate your app’s aesthetics with visually appealing motion graphics. Whether you’re a beginner or looking to master advanced animation flows, you’ll leave with actionable best practices and insider tricks for making your Flutter apps shine with Rive.",
@@ -120,8 +110,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Sourav Sonkar",
     "talk_title": "From Widget to World: Making Flutter Apps Truly Inclusive",
     "full_abstract": "Accessibility is essential for creating apps that reach every user, regardless of ability. In this session, we will share why digital inclusion is vital for a diverse audience and how Flutter developers can bake accessibility into their workflow from the very start. We will look at how to catch issues in widgets, layouts, and navigation patterns, how to align with WCAG guidelines without slowing down development, and how modern approaches (including AI-powered developer assistants) make it easier than ever to write inclusive mobile apps.\n\nEnd of the day learning from this talk:\n- A checklist of accessibility practices tailored for Flutter apps\n- Real code examples of detecting and fixing issues in common Flutter widgets\n- A practical workflow for shipping accessible apps by default\n- A glimpse of how upcoming developer tooling will transform accessibility testing in mobile",
@@ -132,8 +121,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Robert Odrowaz-Sypniewski",
     "talk_title": "Using Dart FFI for Compute-Heavy Tasks in Flutter Apps",
     "full_abstract": "Dart is a great programming language for most apps. It's modern, strongly-typed, null-safe, and memory-safe. However, it is not particularly fast compared to other compiled languages. The solution for Flutter apps that require better performance for compute-heavy tasks is Dart Foreign Function Interface (FFI).\n\nFFI allows functions written in different languages to be called from Dart code. This means that most of the app can be written in Dart, but specific compute-intensive tasks can be implemented in a lower-level language like C, which can be up to 5x faster.\n\nWe will cover the following topics:\n- What is Dart FFI?\n- What are the limitations of Dart FFI?\n- How to use Dart FFI in a Flutter app\n- What is the difference in performance between Dart and C in real-life examples?",
@@ -144,8 +132,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Shree Bhagwat",
     "talk_title": "No More Jank: Escaping the Matrix of Frame Drops",
     "full_abstract": "Everything works great on your device, but suddenly your Flutter app starts lagging, dropping frames, or stuttering on others. This talk is about those moments. I’ll break down how Flutter renders frames, why things go janky, and how you can fix (and even prevent) it.\nThrough real examples and practical demos, I’ll share tips and tools that have helped me improve performance in production apps — and hopefully, they’ll help you too.\n\nWhat this talk covers:\n\n* What exactly is a “frame drop” and how Flutter’s rendering pipeline works.\n* The real reasons behind jank (and no, it’s not always animations!).\n* Using Flutter DevTools like a pro: timeline view, paint, rebuild tracking.\n* Common performance pitfalls: expensive widgets, async overload, layout thrashing.\n* Quick wins to make lists scroll smoother, images load faster, and screens render snappier.\n* A simple workflow to debug and stay on top of performance issues in every release.\n\nWhat You'll Learn:\n\n* How to spot performance red flags before your users do.\n* Practical steps to profile, measure, and debug janky UI.\n* How to make smart widget tree decisions and avoid rebuild traps.\n* Best practices for keeping animations smooth and interactions fluid.\n* How to use Flutter DevTools Timeline and Repaint Rainbow effectively.\n* Battle-tested advice from production apps — what works and what doesn't.",
@@ -156,8 +143,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Thripuramba B N",
     "talk_title": "Cast n Play: Integrating Chromecast & Airplay in Flutter",
     "full_abstract": "Access the related GitHub code here https://github.com/rohanjsh/flutter-cast-airplay-android-ios\n\nFlutter is a powerful cross-platform framework which advocates the concept - Build for any screen. However, when it comes to media casting technologies like Chromecast and AirPlay, developers often encounter complex implementation challenges on native side of things.\n\nThis session will address the complexities of integrating Chromecast and AirPlay capabilities within Flutter applications. We will explore architectural nuances of these casting technologies, exploring platform-specific APIs, bridging native implementations, and creating seamless user experiences across iOS and Android devices.\n\nKey takeaways include:\n- Architectural strategies for handling platform-specific casting APIs\n- Practical implementation patterns for Chromecast and AirPlay\n- Error handling and user experience considerations\n- Real-world code demonstrations and best practices\n\nWhether you're building audio or video streaming apps, this session will equip you with the skills needed to implement the required functionality.",
@@ -168,8 +154,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Vivek Singh",
     "talk_title": "Conquering RenderSliver: Harnessing Power, Overcoming Fear",
     "full_abstract": "Every truly great app the ones that feel alive, fluid, and effortless hides a quiet superpower under the hood: RenderSlivers.\n\nBut let’s be honest. Most developers avoid them. They seem complex, intimidating, and a little unpredictable. We did too.\n\nUntil we had to build and optimize screens that could handle massive dynamic layouts instantly and more importantly, make them server driven at Digia\n\nIn this session, we’ll share our personal journey from fearing Slivers to mastering them. You’ll see how understanding Flutter’s rendering pipeline unlocked a new level of performance, flexibility, and control for us, and how we now use Slivers as the foundation of Digia’s Server-Driven UI engine that powers real apps in production.\n\nWe’ll talk about the “aha” moments that changed how we see RenderSliver, how we safely harness them for adaptive, data-driven layouts, and the patterns we discovered while making Slivers server-driven.\n\nBy the end, you won’t just understand RenderSlivers and Slivers in genera you’ll want to use them. Because conquering them isn’t just about performance. It’s about creative freedom.\n\n🧠 Takeaways:\n\nHow RenderSlivers actually work under the hood\n\nPractical patterns for using Slivers effectively in production apps\n\nHow to make Sliver-based layouts dynamic and server-driven\n\nCommon pitfalls and debugging lessons from real-world use",
@@ -180,8 +165,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Ponnam Karthik",
     "talk_title": "Decoupling Designs: Material, Cupertino, and You in the Post-SDK Split Era",
     "full_abstract": "With Flutter's recent architectural shift, Material and Cupertino widgets have been separated into standalone packages, marking a significant change in how we approach theming and design consistency across platforms. This session delves into:\n\nUnderstanding the SDK Split: What does the decoupling of Material and Cupertino mean for developers?\n\nImplementing Adaptive Themes: Strategies for creating themes that respond to platform differences while maintaining a unified codebase.\n\nLeveraging Custom Themes: Building and integrating custom themes that cater to specific design requirements and user preferences.\n\nBest Practices and Pitfalls: Common challenges in theming post-split and how to navigate them effectively.",
@@ -192,8 +176,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Abdullah Deshmukh",
     "talk_title": "Write Once, Test Twice, Ship Everywhere: Building Consistently Fast Flutter Apps",
     "full_abstract": "We all test our Flutter apps to make sure they work, but how often do we test to make sure they feel right? This session shares a simple approach: test twice, once for correctness and once for performance.\n\nWe will start by looking at real issues that cause performance drops in Flutter apps on mobile and web. I will demonstrate how to measure frame build times, analyze shader compilation, and identify jank using tools like Flutter DevTools, the Performance Overlay, and Flutter’s profile mode. Then we will explore how to automate those checks using performance baselines, integration tests, and CI workflows to keep your app smooth release after release.\n\nBy the end of the session, you will have a clear process and set of tools to move from “it works” to “it feels great” on every screen.\n\nKey Takeaways\n1. The idea of testing twice, and why correctness and performance deserve separate testing cycles.\n2. How to identify and profile performance bottlenecks in Flutter apps using DevTools, the Performance Overlay, and profile mode.\n3. How to turn profiling insights into repeatable checks that catch performance regressions before they affect users.\n4. Simple patterns for integrating automated performance checks into CI/CD pipelines.\n5. A sustainable way to ship apps that stay fast and consistent across every platform.",
@@ -204,8 +187,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Pawan Kumar",
     "talk_title": "Thread by Thread: The Hidden Battle for Flutter Stability",
     "full_abstract": "Every Flutter app looks perfect until the system says no.\nIn this talk, we’ll go beneath the widgets and into the real forces that make or break Flutter stability: threads, memory, and native engine loading.\n\nDrawing from real-world crashes across millions of installs including one that caused Flutter to fail before runApp() - we’ll explore how to detect, prevent, and recover from these silent killers.\n\nYou’ll learn how to build apps that don’t just run - they survive.\n\nKey takeaways:\n\nUnderstand Flutter’s true startup flow and native dependencies.\n\nBuild “health-gated” launchers for crash-proof initialization.\n\nDetect and mitigate resource exhaustion in production.\n\nApply resilience patterns that make Flutter unstoppable at scale.",
@@ -216,8 +198,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Pranav Masekar",
     "talk_title": "Shorebird CodePush: Revolutionising Flutter App Updates in Real-Time",
     "full_abstract": "Discover how Shorebird CodePush transforms the Flutter development workflow by enabling real-time code updates for both Android and iOS platforms. We'll dive deep into the challenges of traditional app update cycles and demonstrate how Shorebird offers an elegant, efficient solution.\n\nThrough an engaging live demonstration, attendees will learn:\n\nHow to seamlessly integrate Shorebird into existing Flutter projects\nThe step-by-step process of creating and deploying instant updates\nTechniques for implementing a robust CI/CD pipeline using GitHub Actions\n\nWe'll also explore Shorebird's architecture, its free-to-use model, and upcoming features that promise to further revolutionize Flutter app maintenance.",
@@ -228,8 +209,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Rutvik Tak",
     "talk_title": "Fragment Shaders In Flutter: A whole new World",
     "full_abstract": "Fragment shaders in Flutter expand the horizon of building custom UIs and animations. They go beyond your day-to-day custom painters and render objects to help you create truly custom graphics and special effects for your Flutter apps and games.\n\nWith control over every pixel on the screen, you can manipulate your app graphics in a variety of ways to create effects and animations that would otherwise be impossible to do without shaders like real-time image filters seen within Instagram/Snapchat or custom blur, pixellation or even custom navigation transitions for your apps and games.\n\nWe'll also explore how Shaders sit at the pinnacle of graphics and how the Flutter engine uses Fragment shaders under the hood for rendering the pixels on the screen. And go into different techniques and tools combined with Custom painting, render objects and more to use Fragment shaders in your Flutter apps and games to create unique digital experiences.",
@@ -240,8 +220,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Marcin Chudy",
     "talk_title": "Taming Legacy: Refactoring Patterns for Large Flutter Codebases",
     "full_abstract": "Flutter quickly became a solid technology to use in large-scale enterprise apps. However, as projects grow over time and developers are met with tight deadlines, we stumble upon the inevitable challenges related to dealing with legacy Flutter code. This is what I experienced firsthand while working on multiple projects across various business domains.\n\nIn this talk, I will walk you through some real-life examples of how Flutter codebases can deteriorate over time and how we effectively refactor them. We’ll tackle duplicated code, tight coupling, the lack of reusable widgets, chaotic state management, polyrepo workflow issues and much more. We’ll try to stay pragmatic though. As halting the development completely to do total refactoring is rarely an option, I would like to show strategies that can quickly bring real value without disrupting the work of the whole development team.\n\nWhether you’re just starting your project or inheriting an old codebase, refactoring patterns are a must. Having a deeper knowledge of them will help you create quality future-proof Flutter apps.",
@@ -252,8 +231,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Marcin Chudy",
     "talk_title": "Escaping Chaos: Strategies to Move from Polyrepo to Monorepo",
     "full_abstract": "In this talk, we'll go through a real-life case of a large banking app developed by 60+ Flutter developers that started as a polyrepo project, with each Dart package being placed in a separate Git repository.\n\nAs the project grew, this became more and more problematic. The development workflow started being painful, and the main branch was broken most of the time, with developers spending more time solving conflicts and figuring out how to correctly merge all their PRs rather than focusing on delivering actual business value.\n\nWe're going to analyze all the pain points that we suffered and see how the polyrepo approach compares with monorepo in Flutter projects. Then I'll show you the strategy we took to execute the migration. As we couldn't afford just to hold the development completely to clean everything up, we had to develop a smarter strategy that allowed for a more seamless transition.",
@@ -264,8 +242,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Andrii Khrystian",
     "talk_title": "Voice Interfaces in Flutter: Building Assistants with Speech-to-Text and Text-to-Speech",
     "full_abstract": "Voice is becoming one of the most natural ways to interact with technology, and Flutter gives us the tools to bring it into our apps today. In this session, we’ll explore how to build a voice-enabled assistant in Flutter by combining Speech-to-Text (STT) for recognition and Text-to-Speech (TTS) for natural responses. We’ll cover the available Flutter plugins and APIs, compare cloud vs. offline solutions, and highlight pitfalls like dealing with Austrian dialect.\nThrough live demos, you’ll see how to integrate STT and TTS into a Flutter app, structure your architecture for responsive voice interactions, and design UIs that feel intuitive when voice becomes the primary input. By the end of the talk, you’ll have the knowledge to extend your Flutter apps with conversational capabilities—whether for accessibility, productivity, or full-blown voice assistants.",
@@ -276,8 +253,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Likhitha Aralimara",
     "talk_title": "Flutter’s Cloudless AI Revolution: Solving Latency, Privacy, and Cost with SLMs & FFIs",
     "full_abstract": "Most AI integrations in mobile apps today rely on cloud APIs, introducing latency, recurring costs, and data privacy concerns. This talk demonstrates a cloudless approach: embedding quantized Small Language Models (SLMs) directly into Flutter apps using Foreign Function Interface (FFI) to call into runtimes like llama.cpp, whisper.cpp, or tflite. Attendees will see how on-device inference enables zero-latency, privacy-first, and cost-free AI interactions.\n\nWe’ll explore the full technical pipeline - model quantization (INT4/INT8), memory optimization strategies for mobile devices, FFI bindings in Dart, and integrating offline STT/TTS for seamless conversational experiences. By the end, Flutter developers will understand how to build production-ready apps that run advanced AI locally without relying on the cloud.\n\nKey Takeaways\n1. Learn how to quantize and embed SLMs (INT4/INT8) into Flutter apps for on-device inference.\n2. Understand how to bridge Flutter with C/C++ runtimes like llama.cpp, whisper.cpp, and tflite using FFI.\n3. Explore architectural strategies for offline-first, zero-latency AI pipelines in Flutter.\n4. Gain practical techniques to optimize model performance under mobile constraints (memory, CPU, battery).\n5. See how cloudless AI directly addresses latency, privacy, and cost - the hardest problems in deploying AI at scale.",
@@ -288,8 +264,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Burhanuddin Rashid",
     "talk_title": "A Journey of 3 Layers Unity Integrating with Flutter and Native Apps.",
     "full_abstract": "Humans process visual information faster than text. For e-learning apps, it's crucial to maintain that attention. Therefore, we introduced an anime character in the e-learning app to make it more interactive.\n\nThis anime character was created in Unity, and the current app was under ongoing migration to Flutter. The main challenge here was integrating Unity in three layers: Unity to Flutter, and then Flutter into separate native Android and iOS apps because of on going migration.\n\nIn this presentation, I will share my insights and the challenges we encountered while integrating Unity at scale, with multiple teams working independently across 50+ packages in a single mono repo Flutter app. I will cover the following topics:\n\n1. Integrating Unity into Flutter\n2. Communicating with Unity from the Flutter app\n3. Integrating the Flutter app into separate native Android and iOS apps\n4. Ensuring the developer workflow remains unaffected\n5. Setting up continuous integration for the three-layer integration.",
@@ -300,8 +275,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Vishal Kumar",
     "talk_title": "Server Driven UI (BFF)",
     "full_abstract": "This will be session on how to build large scale performant Application with strategy around powering most of FrotnEnd through Backend (config + APIs), Introducing new features without App Release, Reducing Client to Server Latency, Powering Experimentation at scale, Instrumentation and Observability, State Management, etc.\n\nAlong with how Apps like Flipkart, PhonePe, Tata Neu, Paytm, etc are shipping features fast and reliable.",
@@ -312,8 +286,7 @@
     "room": ""
   },
   {
-    "source": "https://india.fluttercon.dev",
-    "conference_name": "Fluttercon India 2025",
+    "conference_name": "FlutterCon India 2025",
     "talk_author": "Md Noman Khan",
     "talk_title": "Seamless Fusion: A Deep Dive into Flutters Add-to-App Magic",
     "full_abstract": "In this session, We'll unravel the mysteries behind making Flutter and native code work together like never before. Discover the reasons why developers are enchanted by Add-to-App, from its ability to reuse code across platforms to maintaining a consistent user experience. Basically, I'll talking about how you can integrate a flutter module into you existing kotlin and swift app and how you can not scrap you existing android and ios apps and still use flutter for you upcoming features.\n\nI'll guide through the steps of setting up Flutter modules, seamlessly integrating them into native code, and handling the intricate dance between the two. Expect some hands on to make this fusion process not only seamless but also delightful.\n\nReal-world examples will be our treasure map, guiding us through instances where Add-to-App has turned the ordinary into the extraordinary. By the end of our magical journey, you'll have the knowledge to infuse your app development process with the captivating charm of Flutter's Add-to-App and a case study of CRED on how they used it in their app.",

@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Anton Borries",
     "talk_title": "Hands on Homescreen Widgets for your app",
@@ -12,7 +11,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Muhammed Salih Guler",
     "talk_title": "From Flutter to Full-Stack: A Practical Guide to Full-stack Development",
@@ -24,7 +22,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Manuela Sakura Rommel",
     "talk_title": "Deep Dive into Semantics Widget",
@@ -36,7 +33,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Simon Eckerstorfer",
     "talk_title": "Proximity Unlocked: Building Smart Location-Based Matching Apps in Flutter",
@@ -48,7 +44,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Jaime Blasco",
     "talk_title": "Getting started with Slivers",
@@ -60,7 +55,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Michael McRoskey",
     "talk_title": "AI-Powered Visual Dev: A New Workflow for Flutter Devs",
@@ -72,7 +66,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Majid Hajian",
     "talk_title": "Let’s Talk About Memory Leaks In Dart And Flutter",
@@ -84,7 +77,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "François Nollen, Adrien Body",
     "talk_title": "A Journey to Continuous Delivery with Flutter ⚡️🚀🙂",
@@ -96,7 +88,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Mangirdas Kazlauskas",
     "talk_title": "From fear to air: embracing over-the-air app updates",
@@ -108,7 +99,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Aloïs Deniel",
     "talk_title": "Bringing Flutter to the terminal",
@@ -120,7 +110,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Alicja Ogonowska",
     "talk_title": "Listen up! Mastering A/B testing and feedback techniques in your mobile apps",
@@ -132,7 +121,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Anton Borries",
     "talk_title": "Saving Time and CO₂ - A story about a custom Design System",
@@ -144,7 +132,6 @@
     "room": ""
   },
   {
-    "source": "https://flutterconnection.io",
     "conference_name": "Flutter Connection 2025",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Simplify app development by building widgets in isolation",

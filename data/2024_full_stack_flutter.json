@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Viktor Lidholt",
     "talk_title": "What's new in Serverpod 2.0",
@@ -12,7 +11,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Eric Seidel",
     "talk_title": "Code push for Flutter",
@@ -24,7 +22,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Leigha Reid",
     "talk_title": "What's new in FlutterFlow",
@@ -36,7 +33,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Matt Carroll",
     "talk_title": "Static web site generation with Dart",
@@ -48,7 +44,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Kieran Lee",
     "talk_title": "Why choose full-stack flutter?",
@@ -60,7 +55,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Is your JSON deserialization implementation efficient?",
@@ -72,7 +66,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Tom Arra",
     "talk_title": "Full Stack with Dart Frog",
@@ -84,7 +77,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Paul Köhler",
     "talk_title": "Streaming with Serverpod",
@@ -96,7 +88,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Alicja Ogonowska",
     "talk_title": "No Backend? No Problem! Flutter apps with Firebase Extensions",
@@ -108,7 +99,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Allen Wyma",
     "talk_title": "Giving when you don't take",
@@ -120,7 +110,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Alexander Sandor",
     "talk_title": "Your first project with Serverpod",
@@ -132,7 +121,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Oleksandr Leushchenko",
     "talk_title": "When your backend isn't ready",
@@ -144,7 +132,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Lukas Klingsbo",
     "talk_title": "Melos: Why, when and how you should use monorepos",
@@ -156,7 +143,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Damian Bast",
     "talk_title": "Serverside Flutter - rendering widgets on the server",
@@ -168,7 +154,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Mateusz Wojtczak",
     "talk_title": "What's Patrol and why you should use it",
@@ -180,7 +165,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Majid Hajian",
     "talk_title": "Dart, Flutter, and gRPC integration",
@@ -192,7 +176,6 @@
     "room": "Track A"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Rebecca Saka",
     "talk_title": "Building CLI Applications and Best Practices",
@@ -204,7 +187,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Dillon Nys",
     "talk_title": "How to build a Flutter cloud platform",
@@ -216,7 +198,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Gianfranco Papa",
     "talk_title": "Using Flutter and gRPC to build real-time apps",
@@ -228,7 +209,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Cagatay Ulusoy",
     "talk_title": "Reactive navigation management with MVVM and Navigator 2.0",
@@ -240,7 +220,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Nayra Hashem",
     "talk_title": "Beautiful UI for desktop and web",
@@ -252,7 +231,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Mikhail Zotyev",
     "talk_title": "Motion Designer is your best friend for creating animations",
@@ -264,7 +242,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Sasha Denisov",
     "talk_title": "Flutter on AppleTV",
@@ -276,7 +253,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Victor Carreras Jimenez",
     "talk_title": "Flutter on smart watches",
@@ -288,7 +264,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Hannes Winkler",
     "talk_title": "Innovating embedded systems with flutter-pi",
@@ -300,7 +275,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Ivanna Kacevica",
     "talk_title": "Cleaner Flutter code with Dart 3",
@@ -312,7 +286,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Martin Jeret",
     "talk_title": "White labeling apps at scale using CI/CD",
@@ -324,7 +297,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Ashita Prasad",
     "talk_title": "The state of Flutter Packageverse",
@@ -336,7 +308,6 @@
     "room": "Track B"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Karol Wrótniak",
     "talk_title": "How to create a Dart lint rule using the custom_lint package",
@@ -348,7 +319,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Chima Precious",
     "talk_title": "Crossing the Chasm - Dart on the Server",
@@ -360,7 +330,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Elliot Hesp",
     "talk_title": "Globe - Building a hosting platform for Dart & Flutter",
@@ -372,7 +341,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Fabrice Sumsa",
     "talk_title": "Build web3 apps with flutter",
@@ -384,7 +352,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Kilian Schulte",
     "talk_title": "Introducing Jaspr - Dart's first full stack web framework",
@@ -396,7 +363,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Darja Orlova",
     "talk_title": "Backend-as-a-Service - a lifesaver for an indie dev",
@@ -408,7 +374,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Divyanshu Bhargava",
     "talk_title": "Scaling server driven UI with Mirai",
@@ -420,7 +385,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Maureen Josephine",
     "talk_title": "Mastering swipe gestures in Flutter",
@@ -432,7 +396,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Enhancing widget cataloging, testing, and collaboration with designers",
@@ -444,7 +407,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Masahiro Aoki",
     "talk_title": "Building GitHub apps with Dart- a path less traveled",
@@ -456,7 +418,6 @@
     "room": "Track C"
   },
   {
-    "source": "https://fullstackflutter.dev/schedule24",
     "conference_name": "Full Stack Flutter 2024",
     "talk_author": "Abu Anwar MD Abdullah",
     "talk_title": "Design Systems - Create one and cut UI code by 50%",

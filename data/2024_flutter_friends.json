@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Craig Labenz",
     "talk_title": "Keynote - Empathetic Flutter",
@@ -12,7 +11,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Vyacheslav Egorov",
     "talk_title": "Learning something about Dart performance by optimizing jsonDecode",
@@ -24,7 +22,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Kilian Schulte",
     "talk_title": "Inside Jaspr: Building a Dart web framework from scratch",
@@ -36,7 +33,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Renan Araujo",
     "talk_title": "Flutter web superfast: WASM",
@@ -48,7 +44,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Majid Hajian",
     "talk_title": "Practical Design Patterns for Flutter Development",
@@ -60,7 +55,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Darja Orlova",
     "talk_title": "Zero runtime errors: Exploring Static Code Analysis techniques in Flutter",
@@ -72,7 +66,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Michał Gapiński",
     "talk_title": "Embedded Flutter on Raspberry Pi 5: Simplification of Daily E-Commerce Operations",
@@ -84,7 +77,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Luan Nico",
     "talk_title": "Making a 3D game with Flutter and Flame",
@@ -96,7 +88,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Alexandre Moureaux",
     "talk_title": "Flutter & Threads",
@@ -108,7 +99,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Pavel Sulimau",
     "talk_title": "Code Quality Gates for Large-Scale Flutter Apps",
@@ -120,7 +110,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Simon Auer",
     "talk_title": "Quick Wins - how to make your app more accessible",
@@ -132,7 +121,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Dominik Roszkowski",
     "talk_title": "Native Background Processing with Flutter",
@@ -144,7 +132,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Akanksha Singh",
     "talk_title": "Automating Accessibility Adoption in Flutter using Gemini AI",
@@ -156,7 +143,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Roaa Khaddam",
     "talk_title": "Code Meets Art: Flutter for Creative Coding",
@@ -168,7 +154,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Raouf Rahiche",
     "talk_title": "A closer look at the blur effect in Flutter",
@@ -180,7 +165,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Jochum van der Ploeg",
     "talk_title": "How big are macros really?",
@@ -192,7 +176,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Sasha Denisov",
     "talk_title": "Porting your mobile app to TV platforms",
@@ -204,7 +187,6 @@
     "room": "Devoteam"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Mike Diarmid, Jochum van der Ploeg",
     "talk_title": "Learn how to build real-time games with Flutter and Dart Frog",
@@ -216,7 +198,6 @@
     "room": "NoA"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Moritz Theis, Payam Zahedi",
     "talk_title": "Beyond Mobile: Powering Embedded Devices with Flutter",
@@ -228,7 +209,6 @@
     "room": "NoA"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Alfredo Bautista Santos",
     "talk_title": "Flutter + Gemini: Your AI App Development Launchpad",
@@ -240,7 +220,6 @@
     "room": "Devoteam"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Muhammed Salih Güler",
     "talk_title": "Building a Cloud-Powered Diary Application with Flutter",
@@ -252,7 +231,6 @@
     "room": "NoA"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Çağatay Ulusoy",
     "talk_title": "Advanced Flutter Navigation: Mastering Declarative Navigation",
@@ -264,7 +242,6 @@
     "room": "NoA"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Simon Lightfoot",
     "talk_title": "Flutter in the year 2044: Discussing a community plan for Flutter’s next 20 years",
@@ -276,7 +253,6 @@
     "room": "Devoteam"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Julia Borkowska, Mateusz Wojtczak",
     "talk_title": "Let's test it with Patrol!",
@@ -288,7 +264,6 @@
     "room": "NoA"
   },
   {
-    "source": "https://tomato-cake-62aef3.confetti.events/schedule",
     "conference_name": "Flutter & Friends 2024",
     "talk_author": "Lucas Josefiak, Jens Horstmann",
     "talk_title": "Simplify Design Systems and Designer/Developer Collaboration with Widgetbook",

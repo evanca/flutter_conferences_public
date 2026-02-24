@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Eric Seidel",
     "talk_title": "Flutter at 10 years",
@@ -12,7 +11,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Matt Carroll",
     "talk_title": "The art of Flutter testing",
@@ -24,7 +22,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Luan Nico",
     "talk_title": "3D Games With Flame",
@@ -36,7 +33,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Mobile tech stack at Tide",
@@ -48,7 +44,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "John Manning",
     "talk_title": "Building secure, interoperable healthcare apps in Flutter",
@@ -60,7 +55,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Slava Egorov, Vijay Menon, Andrew Brogdon, Todd Volkert, Leaf Petersen, Brandon Badger",
     "talk_title": "Flutter Team Leadership Panel",
@@ -72,7 +66,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Leigha Reid",
     "talk_title": "The future of visual development with FlutterFlow",
@@ -84,7 +77,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "John Manning, Grey Faulkenberry",
     "talk_title": "Building secure, interoperable healthcare apps in Flutter (continued)",
@@ -96,7 +88,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Dominik Roszkowski",
     "talk_title": "Background Processing with Flutter and Native Platforms",
@@ -108,7 +99,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Manuela Sakura Rommel",
     "talk_title": "Stop Treating Accessibility as an Afterthought: Concrete Steps to Build Inclusive Apps",
@@ -120,7 +110,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Simplify Design Systems and Designer/Developer Collaboration with Widgetbook",
@@ -132,7 +121,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Felix Angelov",
     "talk_title": "Join the Flock: Add Shorebird to your Flutter Apps",
@@ -144,7 +132,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Chris Sells",
     "talk_title": "Dart and Flutter and AI, Oh My!",
@@ -156,7 +143,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Juan Manuel Silveira, Valentina Llavayol",
     "talk_title": "How to be a Gladiator in the Gesture Arena",
@@ -168,7 +154,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Kali -",
     "talk_title": "Browser Extensions with Flutter",
@@ -180,7 +165,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Gianfranco Papa, Elian Ortega",
     "talk_title": "Going offline first with Flutter: Best practices",
@@ -192,7 +176,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Norbert Kozsir",
     "talk_title": "Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run",
@@ -204,7 +187,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Marcin Chudy",
     "talk_title": "Flutter Add-to-App: The Good, the Bad and the Ugly",
@@ -216,7 +198,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "John Ryan, Justin McCandless",
     "talk_title": "Advanced animations in Flutter",
@@ -228,7 +209,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Moritz Theis",
     "talk_title": "M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5",
@@ -240,7 +220,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Tsavo Knott",
     "talk_title": "Building Pieces for Developers: Our Journey with Flutter and Dart",
@@ -252,7 +231,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Viktor Lidholt",
     "talk_title": "From frontend to backend with Serverpod",
@@ -264,7 +242,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "John Ryan, Justin McCandless",
     "talk_title": "Advanced animations in Flutter (continued)",
@@ -276,7 +253,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Slava Egorov, Michael Thomsen, Vijay Menon, Kevin Moore, Leaf Petersen",
     "talk_title": "Future of Dart Panel",
@@ -288,7 +264,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Kyle Finlinson",
     "talk_title": "Implications of Flutter Wasm",
@@ -300,7 +275,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Scott Stoll",
     "talk_title": "Controlling App Screens Remotely with RFW and Gemini AI",
@@ -312,7 +286,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "David DeRemer",
     "talk_title": "Build to Succeed with Flutter — A commercial roadmap for the community",
@@ -324,7 +297,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Gianfranco Papa",
     "talk_title": "The power of Macros in Dart",
@@ -336,7 +308,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Jaime Blasco",
     "talk_title": "Flutter on the Big Screen: Building TV apps",
@@ -348,7 +319,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Danielle Cox",
     "talk_title": "Packages - Use code you have already written to contribute to the Flutter ecosystem.",
@@ -360,7 +330,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Basic and advanced networking in Dart and Flutter",
@@ -372,7 +341,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Marcus Twichel",
     "talk_title": "HTMX + Dart = A Good Idea?",
@@ -384,7 +352,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Matt Carroll",
     "talk_title": "Stop centralizing! A humble approach to Flutter app architecture.",
@@ -396,7 +363,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anthony Prakash",
     "talk_title": "Is Flutter here to stay?",
@@ -408,7 +374,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Basic and advanced networking in Dart and Flutter (continued)",
@@ -420,7 +385,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "David DeRemer, Sam Moore",
     "talk_title": "Successful Flutter Re-Platforming — The Path For Betterment",
@@ -432,7 +396,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Daco Harkes, Moritz Sümmermann",
     "talk_title": "Building a package with assets",
@@ -444,7 +407,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Matteo Maria Terzuolo",
     "talk_title": "Pattern Matching to the rescue!",
@@ -456,7 +418,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Basic and advanced networking in Dart and Flutter (continued)",
@@ -468,7 +429,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Toni Piirainen",
     "talk_title": "Digital transformation of media industry with Flutter",
@@ -480,7 +440,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Angjelko Miloshevski",
     "talk_title": "The Dark Arts of RenderSliver: Mastering Custom Slivers in Flutter",
@@ -492,7 +451,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Leo Farias",
     "talk_title": "Generative UI with Flutter",
@@ -504,7 +462,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Ander Dobo",
     "talk_title": "Package Ecosystem Summit Session 1 - Adding support for Swift Package Manager",
@@ -516,7 +473,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Jaime Wren",
     "talk_title": "Revving up your Flutter IDE",
@@ -528,7 +484,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Giuseppe Cianci",
     "talk_title": "Building Offline AI: Integrating CNN Models with Flutter Using TensorFlow Lite",
@@ -540,7 +495,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Marcus Twichel, Samantha O'Brien",
     "talk_title": "SwiftUI for Flutter Developers",
@@ -552,7 +506,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Ander Dobo",
     "talk_title": "Package Ecosystem Summit Session 2 - Past, Present and Future of Native Interop",
@@ -564,7 +517,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Roman Jaquez",
     "talk_title": "A Deep Dive into Dart FFI: Unleashing Flutter at Philips Research",
@@ -576,7 +528,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Rona Kilmer",
     "talk_title": "Accessibility and the Web: Lessons Learned from Adding Accessibility to a Flutter Web App",
@@ -588,7 +539,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Jorge Coca",
     "talk_title": "Demystifying performance tune up in Flutter and Dart",
@@ -600,7 +550,6 @@
     "room": "Regency Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Ander Dobo",
     "talk_title": "Package Ecosystem Summit Session 3 - Sustainable package maintenance models",
@@ -612,7 +561,6 @@
     "room": "Chapel 1: Workshops & Ecosystem Summit"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Anna Leushchenko, Danielle Cox, Rona Kilmer, Leigha Reid, Kali -",
     "talk_title": "Flutteristas Panel",
@@ -624,7 +572,6 @@
     "room": "Imperial Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Jeff Ward",
     "talk_title": "Dart Beyond Flutter: Journeys in Embedding Dart",
@@ -636,7 +583,6 @@
     "room": "Empire Room"
   },
   {
-    "source": "https://web.archive.org/web/20241212151813/https://flutterconusa.dev/",
     "conference_name": "FlutterCon USA 2024",
     "talk_author": "Stefan Hodges-Kluck, Tom Arra",
     "talk_title": "Supercharging Development with Full Stack Dart and AWS",

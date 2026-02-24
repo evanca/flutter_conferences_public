@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Sasha Denisov",
     "talk_title": "Building Next-Level Flutter Apps with AI using Firebase Genkit",
@@ -12,7 +11,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Vadym Pinchuk",
     "talk_title": "Own your app code: throw dependencies out of the ring",
@@ -24,7 +22,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Marco Facco",
     "talk_title": "From Zero to Network Manager Hero",
@@ -36,7 +33,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Viktor Lidholt",
     "talk_title": "Building a multiplayer drawing game with Dart and Serverpod on the backend",
@@ -48,7 +44,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Adrien Body, Francois Nollen",
     "talk_title": "A Journey to Continuous Delivery with Flutter ⚡️🚀🙂",
@@ -60,7 +55,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Albert Wolszon",
     "talk_title": "RenderObject layer advantages without writing any RenderObjects",
@@ -72,7 +66,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Sasha Denisov",
     "talk_title": "Building Flutter Apps with GenAI capabilities without Connection, Money and Privacy Concerns",
@@ -84,7 +77,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Tymoteusz Buczkowski",
     "talk_title": "How to save A LOT of development money with one simple trick - A Flutter Web case study",
@@ -96,7 +88,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Albert Wolszon",
     "talk_title": "Internationalization (and not only)",
@@ -108,7 +99,6 @@
     "room": "Main Stage"
   },
   {
-    "source": "https://flutterheroes.com/2025/agenda/",
     "conference_name": "Flutter Heroes 2025",
     "talk_author": "Vadym Pinchuk, Viktor Lidholt, Marco Facco, Sasha Denisov",
     "talk_title": "Roundtable",

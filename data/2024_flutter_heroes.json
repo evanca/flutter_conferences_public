@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Craig Labenz",
     "talk_title": "Life cycle of a RenderObject",
@@ -12,7 +11,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Francois Nollen, Alexandre Poichet, Alexis Choupault",
     "talk_title": "Mind your app footprint! 🐾⚡🌱",
@@ -24,7 +22,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Alexandre Moureaux",
     "talk_title": "Debugging performance issues with the Flutter DevTools",
@@ -36,7 +33,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Alessandro D'Angelo",
     "talk_title": "The importance of Accessibility In Flutter - How to Build better inclusive Apps",
@@ -48,7 +44,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Mateusz Wojtczak",
     "talk_title": "What's Patrol and why you should use it",
@@ -60,7 +55,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Alex Casagrande, Giulia Pizzicoli",
     "talk_title": "Security journey in Flutter apps",
@@ -72,7 +66,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Nicolò Sordoni",
     "talk_title": "Flutter state management: Bloc vs Riverpod",
@@ -84,7 +77,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Matteo Maria Terzuolo",
     "talk_title": "Dart FFI: A Beginner's Guide to High-Performance Integration",
@@ -96,7 +88,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Adrian Woerle",
     "talk_title": "Unlocking Flutter Success: A Journey from Theory to Practical Architecture",
@@ -108,7 +99,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Thomas Coumau, Maxime Rougieux",
     "talk_title": "Animation vs delivery, do you really have to choose ?",
@@ -120,7 +110,6 @@
     "room": "Auditorium"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Dario Digregorio",
     "talk_title": "Building Responsive UIs in Flutter",
@@ -132,7 +121,6 @@
     "room": "Workshop Room"
   },
   {
-    "source": "https://flutterheroes.com/2024/agenda/",
     "conference_name": "Flutter Heroes 2024",
     "talk_author": "Christian Mello",
     "talk_title": "Let's test it with Patrol!",

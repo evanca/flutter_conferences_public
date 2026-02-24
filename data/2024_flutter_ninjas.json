@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Kosuke Saigusa",
     "talk_title": "Exploring Full-Stack Dart for Firebase Server-Side Development",
@@ -12,7 +11,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Takuma Osada",
     "talk_title": "Monitoring user experience of flutter apps with SLI/SLO",
@@ -24,7 +22,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Park JaiChang",
     "talk_title": "Implementing a RAG (Retrieval-Augmented Generation) System in Dart",
@@ -36,7 +33,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Takeshi Tsukamoto",
     "talk_title": "Introducing flx: A New TUI DevTool for Flutter on the Terminal",
@@ -48,7 +44,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Ethiel Adiassa",
     "talk_title": "Dart Isolates: every frame counts for a Performant all",
@@ -60,7 +55,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Renuka Kelkar",
     "talk_title": "Building a Gemini AI-Powered Emoji Movie-Guessing Feature in a Production-Ready App with Flutter",
@@ -72,7 +66,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Abdelrahman Eba",
     "talk_title": "Building SimCity 2000: Unleashing the Power of Flame Engine and Flutter",
@@ -84,7 +77,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Tsuyoshi Chujo",
     "talk_title": "Maximizing the Power of the Widget Tree: Enhance Your Flutter Apps Without Packages",
@@ -96,7 +88,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Remi Rousselet",
     "talk_title": "Riverpod 3.0, the preview",
@@ -108,7 +99,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Akanksha Singh",
     "talk_title": "Automating Accessibility Adoption in Flutter with Gemini AI",
@@ -120,7 +110,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Aoi Umigishi",
     "talk_title": "My challenge to add Vision OS support in Flutter",
@@ -132,7 +121,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Kakeru Nakabachi",
     "talk_title": "Inside Flutter Text",
@@ -144,7 +132,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Manuela Sakura Rommel",
     "talk_title": "Stop Treating Accessibility as an Afterthought: Concrete Steps to Build Inclusive Apps",
@@ -156,7 +143,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Marcin Chudy",
     "talk_title": "Flutter Add-to-App: The Good, the Bad and the Ugly",
@@ -168,7 +154,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Moritz Theis",
     "talk_title": "Beyond Mobile: Powering Embedded Devices with Flutter ",
@@ -180,7 +165,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Parth Joshi",
     "talk_title": "Rive Animations with Flutter",
@@ -192,7 +176,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Sasha Denisov",
     "talk_title": "Workshop: Flutter for Android TV and Apple TV",
@@ -204,7 +187,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Kevin Suhajda",
     "talk_title": "White labeling at scale using CI/CD",
@@ -216,7 +198,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2024",
     "talk_author": "Samuel Abada",
     "talk_title": "State Restoration \\u2013 Making The Dead State Live Again",

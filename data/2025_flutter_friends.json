@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Filip Hracek",
     "talk_title": "The Boring Keynote",
@@ -12,7 +11,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Slava Egorov",
     "talk_title": "What is an Isolate anyway?",
@@ -24,7 +22,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Enzo Conty",
     "talk_title": "Making your app WCAG 3.0 compliant in 40 minutes!",
@@ -36,7 +33,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Roaa Khaddam",
     "talk_title": "Visualizing Algorithms on the Flutter Canvas",
@@ -48,7 +44,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Albert Wolszon",
     "talk_title": "How to write a button if there was no Material (or Cupertino)",
@@ -60,7 +55,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Remi Rousselet",
     "talk_title": "State management is hard. Here's why.",
@@ -72,7 +66,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Rūdolfs Agris Stilve",
     "talk_title": "Is your app faster with \"const\"?",
@@ -84,7 +77,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Behind the @ – Dart Annotations in Depth",
@@ -96,7 +88,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Ingvild Sandstad",
     "talk_title": "Using the MultiChildRenderObjectWidget",
@@ -108,7 +99,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Morgan Hunt",
     "talk_title": "Architecting for 15 Million Users",
@@ -120,7 +110,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Mateusz Wojtczak",
     "talk_title": "Mastering Efficiency in 2025: Build Apps Faster with Flutter",
@@ -132,7 +121,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Renan Araujo",
     "talk_title": "Flame and shaders: The post processing API",
@@ -144,7 +132,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Elias Elfarri",
     "talk_title": "Either This or That: Expressive Error Handling in Dart",
@@ -156,7 +143,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Sandra Lundh",
     "talk_title": "Test Semantics with Golden Tests",
@@ -168,7 +154,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Martin Olsson",
     "talk_title": "Flutter Goes to Sea - Building Next Generation Marine Interfaces in Flutter",
@@ -180,7 +165,6 @@
     "room": "Studio stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Jamie Kerber",
     "talk_title": "The Flutter Grimoire: A Practical Guide to Your First PR",
@@ -192,7 +176,6 @@
     "room": "Main stage"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "TBA",
     "talk_title": "Badge hack and Game hack",
@@ -204,7 +187,6 @@
     "room": "https://maps.app.goo.gl/E61SAPjj8JEPCgDj8"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Moritz Theis, Alexander Thiele",
     "talk_title": "Build Your Own Flutter AI Sidekick",
@@ -216,7 +198,6 @@
     "room": "Widget track"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Pooja Bhaumik",
     "talk_title": "Building Flutter Packages & Modules Visually",
@@ -228,7 +209,6 @@
     "room": "Dash Track"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Translate Figma Designs to maintainable Flutter Code with Widgetbook MCP",
@@ -240,7 +220,6 @@
     "room": "Widget track"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Ivanna Kaceviča, Esra Kadah",
     "talk_title": "Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop",
@@ -252,7 +231,6 @@
     "room": "Dash track"
   },
   {
-    "source": "https://flutterfriends.dev/schedule",
     "conference_name": "Flutter & Friends 2025",
     "talk_author": "Luan Nico, Jochum van der Ploeg",
     "talk_title": "Flame 3D - Hands-On Workshop",

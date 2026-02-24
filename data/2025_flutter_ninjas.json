@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Ogawa & Yamamoto",
     "talk_title": "Seamless Passkey Authentication with Flutter x Firebase",
@@ -12,7 +11,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Sasha Denisov",
     "talk_title": "Building Flutter Apps with AI capabilities without Connection, Bills and Privacy Concerns",
@@ -24,7 +22,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Ashita Prasad",
     "talk_title": "Unleashing Peak Performance: Mastering Flutter DevTools",
@@ -36,7 +33,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Akansha Jain",
     "talk_title": "Offline-First Flutter: Building Resilient Apps for Unreliable Networks",
@@ -48,7 +44,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Csongor Vogel",
     "talk_title": "KonMari your Flutter code using DCM",
@@ -60,7 +55,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Festus Olusegun",
     "talk_title": "Decoding Dart: A Look at the DartVM",
@@ -72,7 +66,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Kenichi Kambara",
     "talk_title": "Adapting Flutter App UX for Users Across the World",
@@ -84,7 +77,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Majid Hajian",
     "talk_title": "Let's Talk About Memory Leaks in Dart And Flutter",
@@ -96,7 +88,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Masahiro Aoki",
     "talk_title": "Mastering Shortcuts in Flutter: Building Desktop and Web Apps",
@@ -108,7 +99,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Samuel Abada",
     "talk_title": "State Restoration – Making The Dead State Live Again",
@@ -120,7 +110,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Yugo Sugiyama",
     "talk_title": "Exploring Flutter Path Animations",
@@ -132,7 +121,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Mike Diarmid",
     "talk_title": "The Human Side of Flutter's Success Story",
@@ -144,7 +132,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Tsuyoshi Chujo",
     "talk_title": "Haskell: Lead Your Code to the Next Level",
@@ -156,7 +143,6 @@
     "room": "docomo R&D OPEN LAB ODAIBA"
   },
   {
-    "source": "https://flutterninjas.dev/",
     "conference_name": "Flutter Ninjas 2025",
     "talk_author": "Remi Rousselet",
     "talk_title": "Macros are gone. What now?",

@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Kevin Moore",
     "talk_title": "Let's go far with Flutter",
@@ -12,7 +11,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Dominik Roszkowski",
     "talk_title": "Flutter Plugins - From Method Channels to Native Interop",
@@ -24,7 +22,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Majid Hajian",
     "talk_title": "Flutter Widgets Probably Haven’t Heard Of",
@@ -36,7 +33,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Automation for Enterprise-Scale Flutter Development",
@@ -48,7 +44,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Lucas Goldner",
     "talk_title": "No More Anxiety: How to Use iOS Extensions in Your Flutter App",
@@ -60,7 +55,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Daco Harkes",
     "talk_title": "Unlocking Native Power: Deep Dive into Dart Build Hooks",
@@ -72,7 +66,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Piotr Rogulski",
     "talk_title": "Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System",
@@ -84,7 +77,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Robert Odrowaz-Sypniewski",
     "talk_title": "Using Dart FFI for Compute-Heavy Tasks in Flutter Apps",
@@ -96,7 +88,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Michael McRoskey",
     "talk_title": "The IDE Flutter Deserves",
@@ -108,7 +99,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Mateusz Wojtczak",
     "talk_title": "Fearless Flutter Debugging: When All Else Fails, Hack the Tools!",
@@ -120,7 +110,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Vadym Pinchuk",
     "talk_title": "No touch. No gestures. Can you still build a Great UX?",
@@ -132,7 +121,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Majid Hajian",
     "talk_title": "Let’s Talk About Memory Leaks In Dart And Flutter",
@@ -144,7 +132,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Daria Orlova",
     "talk_title": "To SQL or NoSQL? Firebase is the Answer",
@@ -156,7 +143,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Stanislav Sydorenko",
     "talk_title": "Flutter with WebRTC for real-time screen sharing",
@@ -168,7 +154,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Dominik Šimoník",
     "talk_title": "Under the Hood of ScrollViews",
@@ -180,7 +165,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Renan Araujo",
     "talk_title": "Flutter, Flame, and Fragment Shaders",
@@ -192,7 +176,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Łukasz Wiśniewski",
     "talk_title": "DIY In-App Locale Editor with slang",
@@ -204,7 +187,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Lukas Klingsbo 💙",
     "talk_title": "Pub Workspaces",
@@ -216,7 +198,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Hossein Yousefi",
     "talk_title": "Who is a Native Bindings Author and why you should be one",
@@ -228,7 +209,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ümit Duran",
     "talk_title": "Clean Code Push: Integrating Shorebird CodePush into Scalable Flutter Architectures",
@@ -240,7 +220,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Jonas Uekötter",
     "talk_title": "Ensuring quality throughout the application lifecycle",
@@ -252,7 +231,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Sofia Rey",
     "talk_title": "Mastering CustomPainter: Going Beyond Widgets in Flutter",
@@ -264,7 +242,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Bettina Carrizo",
     "talk_title": "Why Your Context Doesn’t Work (And How to Fix It)",
@@ -276,7 +253,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Moritz Sümmermann",
     "talk_title": "How to design a Dart package with hooks",
@@ -288,7 +264,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Mangirdas Kazlauskas",
     "talk_title": "From fear to air: embracing over-the-air app updates",
@@ -300,7 +275,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Tsuyoshi Chujo",
     "talk_title": "AnimatedTo: A Game Changer for Your Moving Animations",
@@ -312,7 +286,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Marcin Chudy",
     "talk_title": "Taming Legacy: Refactoring Patterns for Large Flutter Codebases",
@@ -324,7 +297,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Sandra Lundh",
     "talk_title": "Test Semantics with Golden Tests",
@@ -336,7 +308,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Lessons learned after helping more than 2000 Flutter teams build their own design system",
@@ -348,7 +319,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Mateusz Wojtczak",
     "talk_title": "Mastering Efficiency in 2025: How Are You Building Faster with Flutter?",
@@ -360,7 +330,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Jonas Uekötter, Christoph Schlüter",
     "talk_title": "From Zero to Flutter Favorite: What Makes a Great Dart & Flutter Package?",
@@ -372,7 +341,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ivanna Kaceviča",
     "talk_title": "Monetization Strategies for Flutter Apps: Beyond the Basics",
@@ -384,7 +352,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Esra Kadah, Ivanna Kaceviča",
     "talk_title": "AI in Flutter Development: What’s Actually Useful?",
@@ -396,7 +363,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Vadym Pinchuk, Elaine Dias Batista",
     "talk_title": "Rethinking Flutter Interviews in the AI Era",
@@ -408,7 +374,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ilya Savin",
     "talk_title": "Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers",
@@ -420,7 +385,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Jason Toms",
     "talk_title": "I don't have any technical debt",
@@ -432,7 +396,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Thomas Hanning",
     "talk_title": "Navigating the Shift from Code to Leadership",
@@ -444,7 +407,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Stelios Frantzeskakis",
     "talk_title": "Building a Strong Engineering Culture",
@@ -456,7 +418,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Omkar Pimple",
     "talk_title": "Faster, Smarter Releases: Accelerating Mobile App Deployments",
@@ -468,7 +429,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Eric Seidel",
     "talk_title": "The Future is Written in Dart",
@@ -480,7 +440,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Pascal Welsch",
     "talk_title": "Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots",
@@ -492,7 +451,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Anna Leushchenko",
     "talk_title": "Behind the @ – Dart Annotations in Depth",
@@ -504,7 +462,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Mateusz Rus",
     "talk_title": "From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features",
@@ -516,7 +473,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Yugo Sugiyama",
     "talk_title": "The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning",
@@ -528,7 +484,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Simon Auer",
     "talk_title": "Server-Side Rendering for Flutter Web: Promising Paths or Dead End?",
@@ -540,7 +495,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Tim Lehmann, Jesper Bellenbaum",
     "talk_title": "It's Not Just Liquid Glass: Building Physics-Driven Flutter Apps That Feel Real",
@@ -552,7 +506,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Łukasz Kosman, Gary Mclellan",
     "talk_title": "Banking on Flutter – The Virgin Money Journey",
@@ -564,7 +517,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Joonas Kerttula",
     "talk_title": "Adding Google Maps Turn-by-Turn Navigation to Your Flutter App",
@@ -576,7 +528,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Anton Borries",
     "talk_title": "Time for Flutter on the Apple Watch",
@@ -588,7 +539,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Jhin Lee",
     "talk_title": "Quick Start MCP with Dart: Building LLM Context Servers Now",
@@ -600,7 +550,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Viktor Lidholt",
     "talk_title": "Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI",
@@ -612,7 +561,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Sasha Denisov",
     "talk_title": "Building Offline AI Agent in your Flutter app",
@@ -624,7 +572,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Michael Lazebny",
     "talk_title": "Performant Scrolling Layouts With Slivers",
@@ -636,7 +583,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Kirill Bubochkin",
     "talk_title": "Connect: gRPC that \"works everywhere\"",
@@ -648,7 +594,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Pawan Kumar",
     "talk_title": "Crash-Proof Flutter: Building Apps That Refuse to Die",
@@ -660,7 +605,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Tim Lehmann, Jesper Bellenbaum",
     "talk_title": "Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report",
@@ -672,7 +616,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Matthew Jones",
     "talk_title": "Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More!",
@@ -684,7 +627,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Shree Bhagwat",
     "talk_title": "No More Jank: How to Keep Your Flutter App Smooth and Snappy",
@@ -696,7 +638,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Alexander Thiele",
     "talk_title": "Powering offline-first forestry in Europe's wilds",
@@ -708,7 +649,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Simon Lightfoot",
     "talk_title": "Live-Coding Custom Widgets with Simon",
@@ -720,7 +660,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Adam Eba",
     "talk_title": "Streamlining Development with the Monorepo Ecosystem",
@@ -732,7 +671,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Marcin Wróblewski",
     "talk_title": "I’m the entry point now",
@@ -744,7 +682,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Simon Binder",
     "talk_title": "Simpler state management with Dart on the server and synced databases",
@@ -756,7 +693,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Werner Scholtz",
     "talk_title": "Kalender: A Calendar package in the spirit of Flutter",
@@ -768,7 +704,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ahmed Hamdan",
     "talk_title": "Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond",
@@ -780,7 +715,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ivanna Kaceviča, Esra Kadah",
     "talk_title": "Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop",
@@ -792,7 +726,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Enzo Conty",
     "talk_title": "Polish Before Pitch: Making Your Flutter App Feel “Alive” Before Fundraising",
@@ -804,7 +737,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Omkar Pimple",
     "talk_title": "Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter",
@@ -816,7 +748,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Anton Borries, Lucas Josefiak",
     "talk_title": "Design Systems in Practice: How Flutter Teams Save Time and Align with Design",
@@ -828,7 +759,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Alba Torres Rodríguez",
     "talk_title": "Streamlining Flutter Releases: What’s Your Process?",
@@ -840,7 +770,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Cagatay Ulusoy, Daria Orlova",
     "talk_title": "The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently",
@@ -852,7 +781,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Sandra-Lorena Bahlmann",
     "talk_title": "Breaking Career Plateaus: What’s Really Holding You Back in Tech?",
@@ -864,7 +792,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Florian Mierzejewski",
     "talk_title": "No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale",
@@ -876,7 +803,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Ilya Savin, Maia Grotepass",
     "talk_title": "Rolling Out AI at Scale in Mobile Engineering Teams",
@@ -888,7 +814,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Xavier F. Gouchet",
     "talk_title": "Joining at Staff+: Thriving in a Senior Role Without a Map",
@@ -900,7 +825,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Alessandro Mautone",
     "talk_title": "The DX Factor: From Developer Experience to Business Value",
@@ -912,7 +836,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Zoe Farooq",
     "talk_title": "The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs",
@@ -924,7 +847,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Shree Bhagwat",
     "talk_title": "Tech Leadership in a Fast-Changing Stack",
@@ -936,7 +858,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "David DeRemer, Kyle Crouse",
     "talk_title": "The \"fastest\" application of Flutter of all time!",
@@ -948,7 +869,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Marcos Sevilla",
     "talk_title": "Building a Full-Stack App for Apple Wallet Passes",
@@ -960,7 +880,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Kilian Schulte",
     "talk_title": "Jaspr - Dart, but for Websites",
@@ -972,7 +891,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Alex Bordei",
     "talk_title": "Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI",
@@ -984,7 +902,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Elliott Brooks",
     "talk_title": "Optimize your productivity with Flutter developer tooling",
@@ -996,7 +913,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Bogdan Hobeanu",
     "talk_title": "Building Design Tools with Flutter: Challenges and Lessons Learned",
@@ -1008,7 +924,6 @@
     "room": "Widget Way"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Renuka Kelkar",
     "talk_title": "Nested Navigation in flutter web",
@@ -1020,7 +935,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Albert Wolszon",
     "talk_title": "RenderObject layer advantages without writing any RenderObjects",
@@ -1032,7 +946,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Fré Dumazy",
     "talk_title": "Add-to-web: Reusing Flutter via multi-view embedding",
@@ -1044,7 +957,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Simon Eckerstorfer",
     "talk_title": "Proximity Unlocked: What I wish I knew before working with background location",
@@ -1056,7 +968,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Nino Handler",
     "talk_title": "Successfully reducing Firestore read operations",
@@ -1068,7 +979,6 @@
     "room": "Dart Den"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Salih Guler",
     "talk_title": "From Flutter to Full-Stack: A Practical Guide to Full-stack Development",
@@ -1080,7 +990,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Casey Rogers",
     "talk_title": "Accelerating the Dev Loop with DCM Lints at Betterment",
@@ -1092,7 +1001,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Mikhail Zotyev",
     "talk_title": "Flutter Performance: No Silver Bullet, Only Smart Engineering",
@@ -1104,7 +1012,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Maher Jaafar",
     "talk_title": "This App is Built Different: Advanced Memory Management in Flutter",
@@ -1116,7 +1023,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Jen Merritt",
     "talk_title": "Why \"Where\" Matters: Exploring the Power of Location-Aware Apps",
@@ -1128,7 +1034,6 @@
     "room": "Pub.dev Plaza"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Alexander Thiele, Moritz Theis",
     "talk_title": "Build Your Own AI Sidekick with Flutter",
@@ -1140,7 +1045,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Óscar Martín",
     "talk_title": "Beyond the widgets: Evaluating Flutter apps with code assessments",
@@ -1152,7 +1056,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Simon Lightfoot, Kevin Moore",
     "talk_title": "Live-Coding With Simon (Part II)",
@@ -1164,7 +1067,6 @@
     "room": "Dash’s Domain"
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Enzo Conty",
     "talk_title": "App Audit — Acing Your WCAG Accessibility Audit",
@@ -1176,7 +1078,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Marcin Chudy",
     "talk_title": "Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo?",
@@ -1188,7 +1089,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Dominik Roszkowski, Simon Lightfoot",
     "talk_title": "Surviving the Long Game: Maintaining Flutter Apps Over Time",
@@ -1200,7 +1100,6 @@
     "room": "Flutter Forum "
   },
   {
-    "source": "https://www.nextappcon.com/fluttercon-agenda",
     "conference_name": "FlutterCon 2025",
     "talk_author": "Taso Dane",
     "talk_title": "The Unspoken Shift from Leading a Team to Leading Leaders",

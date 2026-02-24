@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Leigha Reid",
     "talk_title": "How FlutterFlow generates Flutter code",
@@ -12,7 +11,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Mateusz Wojtczak, Marcin Chudy",
     "talk_title": "Demystifying App Architecture: The LeanCode Guide",
@@ -24,7 +22,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Esra Kadah",
     "talk_title": "From Touch To Code: Flutter’s Gesture Mechanics",
@@ -36,7 +33,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Masahiro Aoki",
     "talk_title": "Enabling Instant Updates in Flutter Apps with Shorebird: My Journey with Code Push",
@@ -48,7 +44,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Aloïs Deniel",
     "talk_title": "Server-Driven UI with Flutter",
@@ -60,7 +55,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Lucas Goldner",
     "talk_title": "Flutter Web Laughs: Element Embedding Made Easy",
@@ -72,7 +66,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Gayathri Devi Srinivasan",
     "talk_title": "Flutter Text: From Pixels to Perfection",
@@ -84,7 +77,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Anton Borries",
     "talk_title": "Bring your Flutter App to the HomeScreen - HomeScreen Widgets",
@@ -96,7 +88,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Elaine Dias Batista",
     "talk_title": "Getting Started with GenAI in Flutter Apps",
@@ -108,7 +99,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Maxime Eglem, Michaël Ohayon",
     "talk_title": "Bringing Your Flutter App to the Web",
@@ -120,7 +110,6 @@
     "room": ""
   },
   {
-    "source": "https://2024.flutterconnection.io",
     "conference_name": "Flutter Connection 2024",
     "talk_author": "Loïc Sharma",
     "talk_title": "Into the Flutter-Verse",

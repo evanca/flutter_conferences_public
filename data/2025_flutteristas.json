@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Anna Leushchenko",
     "talk_title": "The power of the community",
@@ -12,7 +11,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Divyarupakala D",
     "talk_title": "Rive Revolution: A Deep Dive into Next-Gen Animations",
@@ -24,7 +22,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Shweta Butani",
     "talk_title": "Adjustable Shapes in Flutter: A Deep Dive into CustomClipper",
@@ -36,7 +33,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Bahar Ramazanova",
     "talk_title": "Flutter for Global Problem-Solving",
@@ -48,7 +44,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Renuka Kelkar, Ivanna Kaceviča",
     "talk_title": "Supercharge Your Flutter Apps with AI Using Firebase Genkit",
@@ -60,7 +55,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Esther Irawati Setiawan",
     "talk_title": "Building AI-Powered Flutter Multimodal Retrieval Augmented Generation Agent App with Firebase Vector Search and Responsible AI",
@@ -72,7 +66,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Lina Mwakitawa",
     "talk_title": "Empowering Communities with Flutter: Building Applications That Make a Difference",
@@ -84,7 +77,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Daria Horlova",
     "talk_title": "Sequence Control: Avoiding Chaos in Multiplayer Game Logic",
@@ -96,7 +88,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Viktor Lidholt",
     "talk_title": "Serverpod Sponsored Talk",
@@ -108,7 +99,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Elvira Leveque",
     "talk_title": "Securing Your Flutter Apps: Navigating the Mobile Security Landscape",
@@ -120,7 +110,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Mariam Hamzat",
     "talk_title": "Seamlessly Deploying Dart Backend APIs with Globe",
@@ -132,7 +121,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Jackie Moraa",
     "talk_title": "The Subtle Art of Micro-interactions in Flutter for Enhanced UX",
@@ -144,7 +132,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Maureen Josephine",
     "talk_title": "Smart Mapping in Flutter with Gemini AI",
@@ -156,7 +143,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Sandra Lundh",
     "talk_title": "Golden Tests in Flutter: Ensuring UI Perfection, One Pixel at a Time",
@@ -168,7 +154,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Natalie Samhan",
     "talk_title": "Enhancing Your Flutter Codebase with the Analyzer Package",
@@ -180,7 +165,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Alba Torres Rodríguez",
     "talk_title": "Globalizing Flutter: Internationalization and Localization",
@@ -192,7 +176,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Ijeoma Emmanuella Ogbonna",
     "talk_title": "Building a watch party app with flutter",
@@ -204,7 +187,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Danielle Honigstein",
     "talk_title": "Hosting Flutter web apps on GitLab pages",
@@ -216,7 +198,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Valeria Durán Ruiz",
     "talk_title": "The ultimate guide to API key management in Flutter",
@@ -228,7 +209,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Andrea Cornejo",
     "talk_title": "Supercharge Your Flutter Development with DevTools",
@@ -240,7 +220,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Daria Orlova",
     "talk_title": "Indie Dev Adventures: Lessons Learned from Going Solo with Flutter",
@@ -252,7 +231,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Esra Kadah",
     "talk_title": "AI Coding Assistants: Where They Can Fit in Your Flutter Development Routine",
@@ -264,7 +242,6 @@
     "room": "Online"
   },
   {
-    "source": "https://flutteristas.org/flutteristas-conference",
     "conference_name": "Flutteristas Conference 2025",
     "talk_author": "Stef Patterson",
     "talk_title": "Converting a SpriteKit game to Flutter using Flame",

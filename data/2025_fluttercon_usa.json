@@ -1,6 +1,5 @@
 [
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Andrew Brogdon",
     "talk_title": "Agentive Experiences With Flutter: What, How, and Why Bother? ",
@@ -12,7 +11,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Chris Sells",
     "talk_title": "More Flutter and Dart and AI, Oh My!",
@@ -24,7 +22,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Mrinal Jain",
     "talk_title": "Build Spectacular  TV Apps with Flutter",
@@ -36,7 +33,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Matt Carroll",
     "talk_title": "Flutter's Golden Age",
@@ -48,7 +44,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Roman Jaquez",
     "talk_title": "Rive: The Final Frontier of Graphics for Flutter Apps",
@@ -60,7 +55,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Maria Mathew, Aniket Bhosale",
     "talk_title": "Mastering Dart Isolates: Custom Entrypoints for Smarter Background Processing",
@@ -72,7 +66,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Jeff Ward",
     "talk_title": "Binding Native Plugins with Flutter and Dart",
@@ -84,7 +77,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Lawrence Wisne, Mikal Wessel, David DeRemer",
     "talk_title": "Adopting Flutter at Scale: Challenges, Wins, and the Road Ahead at Universal",
@@ -96,7 +88,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Lucas Josefiak",
     "talk_title": "Simplify app development by building widgets in isolation",
@@ -108,7 +99,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Greg Price",
     "talk_title": "Writing better tests with less work",
@@ -120,7 +110,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Danielle Cox",
     "talk_title": "Beyond json_serializable: Modern JSON Handling in a Macro-less Flutter Era",
@@ -132,7 +121,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "James O'Reilly",
     "talk_title": "Firebase Studio: AI-Powered Flutter Development",
@@ -144,7 +132,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Simon Binder",
     "talk_title": "Adopting native assets for cross-platform FFI plugins",
@@ -156,7 +143,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Mauricio Miguez",
     "talk_title": "Mastering Scalable Theming for Custom Flutter Widgets",
@@ -168,7 +154,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Kali -",
     "talk_title": "Getting to know js_interop",
@@ -180,7 +165,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Aloïs Deniel",
     "talk_title": "From Vectors to Pixels: mastering images",
@@ -192,7 +176,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Joonas Kerttula",
     "talk_title": "Behind the Plugin: Building Google Maps Navigation for Flutter",
@@ -204,7 +187,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Norbert Kozsir",
     "talk_title": "Vibe Coding with Flutter",
@@ -216,7 +198,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Angjelko Miloshevski",
     "talk_title": "The Sacred Scrolls: Crafting Your Own Slivers",
@@ -228,7 +209,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Miguel Ramos, Andrew Peynado",
     "talk_title": "Enhance the customer experience with Gemini, Flutter, and Firebase",
@@ -240,7 +220,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Fré Dumazy",
     "talk_title": "From Mobile to Web: Reusing Flutter via Multi-View Embedding",
@@ -252,7 +231,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Maneesh Tewani",
     "talk_title": "Generating Developer-Friendly SDKs with Firebase Data Connect",
@@ -264,7 +242,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Randal Schwartz",
     "talk_title": "Dart Exceptions: Best Practices",
@@ -276,7 +253,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Sofía Rey",
     "talk_title": "Mastering CustomPainter: Going Beyond Widgets in Flutter",
@@ -288,7 +264,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Chris Sells, Viktor Lidholt",
     "talk_title": "Contributing to the Flutter Ecosystem: Open Source & Community Growth",
@@ -300,7 +275,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Anthony Prakash",
     "talk_title": "Emerging Trends and the Future of Flutter",
@@ -312,7 +286,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Matt Carroll, Samantha O'Brien",
     "talk_title": "Multi-Platform Development with Native Feature Integration in Flutter",
@@ -324,7 +297,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Roman Jaquez, Simon Lightfoot",
     "talk_title": "Flutter Best Practices: Widget Rebuilds & Animations & Complex UI Rendering",
@@ -336,7 +308,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Rona Kilmer, Kali -, Danielle Cox, Bettina Carrizo",
     "talk_title": "Flutteristas: Reimagining DEI",
@@ -348,7 +319,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Trevor Davis, Tom Arra",
     "talk_title": "Flutter Best Practices: State Management & Scalability",
@@ -360,7 +330,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Ty Smith",
     "talk_title": "AI-Driven Developer Productivity at Scale",
@@ -372,7 +341,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Lauren Darcey",
     "talk_title": "Growing Pains: Scaling and Re-architecting Apps Under Fire",
@@ -384,7 +352,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Clinton Teegarden, Thomas Belk",
     "talk_title": "The DX Factor: From Developer Experience to Business Value",
@@ -396,7 +363,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Sumayyah Ahmed",
     "talk_title": "Handling Skill Specialization as an Engineering Leader",
@@ -408,7 +374,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Kevin Galligan",
     "talk_title": "Cross-Platform Strategy for Engineering Leaders",
@@ -420,7 +385,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Chuck Greb",
     "talk_title": "Building a Strong Engineering Culture",
@@ -432,7 +396,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Rona Kilmer",
     "talk_title": "Leadership vs. Management: Strategies to Help You Lead Effectively",
@@ -444,7 +407,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Chris Sells",
     "talk_title": "Flutter: The Last UI Framework",
@@ -456,7 +418,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Frank van Puffelen",
     "talk_title": "Vibing Flutter",
@@ -468,7 +429,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Jordan Nnabugwu",
     "talk_title": "Server-Driven UI in Flutter",
@@ -480,7 +440,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Leo Farias",
     "talk_title": "The Fleeting Interface: Ephemeral UIs That Learn, Adapt to Context and Usage Patterns, and Vanish",
@@ -492,7 +451,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Seth Ladd, Andrew Brogdon, Mitchell Goodwin, Eric Windmill",
     "talk_title": "Flutter Team Q&A",
@@ -504,7 +462,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Matt Carroll",
     "talk_title": "How to build a desktop widget kit for Flutter apps",
@@ -516,7 +473,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Martino Yovo",
     "talk_title": "When Maps Think: Geotriggers & Spatial Awareness with ArcGIS Maps SDK for Flutter",
@@ -528,7 +484,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Ahmed Hamdan",
     "talk_title": "Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond",
@@ -540,7 +495,6 @@
     "room": "Stage 1"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Pooja Bhaumik",
     "talk_title": "Breaking Production So You Don’t Have To: Lessons from Building a Supabase Powered Flutter app",
@@ -552,7 +506,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Danielle Cox",
     "talk_title": "Bringing a Legend to Life: Reimagining Rogue in Flutter",
@@ -564,7 +517,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Valentina Llavayol, Juan Manuel Silveira",
     "talk_title": "From Math to Dynamic UIs: Applying Matrix4 Transformations in Flutter",
@@ -576,7 +528,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Bettina Carrizo",
     "talk_title": "Getting into Context: The Essential Guide to BuildContext in Flutter",
@@ -588,7 +539,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Matthew Jones",
     "talk_title": "Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, Raspberry Pi, and more!",
@@ -600,7 +550,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Thomas Burkhart",
     "talk_title": "Avoiding the dogma - a plea for mutable objects",
@@ -612,7 +561,6 @@
     "room": "Stage 2"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Clint Purser",
     "talk_title": "Remote Controlling Robots with Flutter & WebRTC",
@@ -624,7 +572,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Jesse Ezell",
     "talk_title": "Beyond Chatbots:Building Cross-Platform, Multi-Modal Collaborative Agents with Flutter",
@@ -636,7 +583,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Robert Odrowaz-Sypniewski",
     "talk_title": "Using Dart FFI for Compute-Heavy Tasks in Flutter Apps",
@@ -648,7 +594,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Jhin Lee",
     "talk_title": "The AI Frontier: Empowering Dart & Flutter with the Model Context Protocol",
@@ -660,7 +605,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Scott Stoll",
     "talk_title": "Multi-Child Algorithm Deep Dive. The Flex, the flex, and the Flummoxed",
@@ -672,7 +616,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Gianfranco Papa",
     "talk_title": "Empowering Your Flutter Apps with AI: Gemini, Vertex, and Beyond",
@@ -684,7 +627,6 @@
     "room": "Stage 3"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Jesse Ezell, Chris Sells",
     "talk_title": "Flutter and AI Roundtable",
@@ -696,7 +638,6 @@
     "room": "unconference roundtables"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Eric Maxwell",
     "talk_title": "From Startup to Scale: The Engineering Playbook for Growing Android Teams",
@@ -708,7 +649,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Stacy Devino",
     "talk_title": "Building a Strong Engineering Culture",
@@ -720,7 +660,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Kevin Galligan",
     "talk_title": "Software Engineering with GenAI - Beyond the Hype and Hyperbole",
@@ -732,7 +671,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Sergii Zhuk",
     "talk_title": "Technical Debt: Strategies for Prioritization, Refactoring, and Keeping You Codebase Healthy",
@@ -744,7 +682,6 @@
     "room": "techlead summit"
   },
   {
-    "source": "https://www.flutterconusa.dev/fluttercon-agenda",
     "conference_name": "FlutterCon USA 2025",
     "talk_author": "Brian Adams",
     "talk_title": "Metrics, KPIs, and Developer Experience: Rethinking Measurement for High-Performing Teams",

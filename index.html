@@ -283,13 +283,13 @@
     const COLUMNS = [
       'conference_name', 'talk_author', 'talk_title',
       'full_abstract', 'date', 'duration',
-      'type', 'tags', 'room', 'source'
+      'type', 'tags', 'room'
     ];
 
     const HEADERS = [
       'Conference name', 'Talk author', 'Talk title',
       'Full abstract', 'Date', 'Duration',
-      'Type', 'Tags', 'Room', 'Source'
+      'Type', 'Tags', 'Room'
     ];
 
     function escapeHtml(s) {
@@ -323,12 +323,7 @@
         html += '<tr>';
         for (const col of COLUMNS) {
           const cls = col === 'full_abstract' ? ' class="abstract full-abstract"' : '';
-
-          if (col === 'source' && talk[col]) {
-            html += `<td${cls}><a href="${escapeHtml(talk[col])}" target="_blank">Link</a></td>`;
-          } else {
-            html += `<td${cls}>${escapeHtml(talk[col])}</td>`;
-          }
+          html += `<td${cls}>${escapeHtml(talk[col])}</td>`;
         }
         html += '</tr>';
       }
